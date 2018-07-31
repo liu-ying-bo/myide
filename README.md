@@ -9,5 +9,6 @@ git clone https://github.com/liu-ying-bo/myide.git ~/
 cd myide && copy ./vimrc ~/
 
 3. Install Plugin
+
 vim
 :PluginInstall
