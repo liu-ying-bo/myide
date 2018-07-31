@@ -11,4 +11,5 @@ cd myide && copy ./vimrc ~/
 3. Install Plugin
 
 vim
+
 :PluginInstall
